@@ -6,8 +6,7 @@
 #   Blog: https://p3terx.com
 #=================================================
 #克隆源码
-#   git clone -b dev-19.07 https://github.com/Lienol/openwrt
-git clone -b dev-master https://github.com/Lienol/openwrt
+git clone -b dev-19.07 https://github.com/Lienol/openwrt
 git clone https://github.com/a736399919/hello-world lede
 cd openwrt
 #sed -i '/luci/d' feeds.conf.default
